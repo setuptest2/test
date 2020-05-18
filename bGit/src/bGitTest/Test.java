@@ -5,6 +5,10 @@ public class Test {
 		System.out.println("Hi");
 		
 		System.out.println("반가워 난 조원이야");
+
+		System.out.println("YYYYYY");
+
 		System.out.println("XXXXXX");
+
 	}
 }
